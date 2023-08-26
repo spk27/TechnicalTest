@@ -3,7 +3,7 @@
 
 ## Description
 
-This project is a technical test for the company Ballast. The project is a simple web application that allows you to create, edit, delete and list applicants and their interview process steps. The project was developed using the following technologies:
+This project is a simple web application that allows you to create, edit, delete and list applicants and their interview process steps. The project was developed using the following technologies:
 
 * ASP.NET 7
 * Angular 14
